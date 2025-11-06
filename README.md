@@ -26,3 +26,7 @@ Height: 14.0
 
 ## Author
 Mackenzie
+
+
+## Collaboration Acknowledgment
+This project was reviewed and edited by Bardie Jafari on GitHub.
